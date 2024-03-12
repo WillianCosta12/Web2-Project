@@ -1,9 +1,9 @@
 package com.example.projectweb.model;
 
-public class User {
+public class Store {
     long id;
     String name;
-    String password;
-
+    String address;
+    long idStock;
 
 }
